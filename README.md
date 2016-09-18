@@ -1,6 +1,9 @@
 # AD-Bitlocker-Recovery
 #### Joshua Nasiatka (Feb 2016)
 
+***Note:***
+*This repository has been merged into [Winadmin Tools](https://github.com/joshuanasiatka/Winadmin-Tools)*
+
 Access Bitlocker keys and create TPM unlock files with ease
 
 Here’s to a program to quickly retrieve and export Bitlocker Recovery Keys and TPM Owner Information (*.tpm) files to regain access to encrypted machines. Now it is possible for techs and other IT staff (in a Bitlocker Recovery accessible OU) to be able to type in a computer name and get its respective Bitlocker Key and TPM Owner Information (msTPM-OwnerInformation extended attribute).
